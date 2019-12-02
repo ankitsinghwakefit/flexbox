@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="129" viewBox="0 0 120 129">
+  <defs>
+    <rect id="a" width="93" height="101"/>
+    <rect id="b" width="69" height="30"/>
+    <rect id="c" width="32" height="30" y="35"/>
+    <rect id="d" width="6" height="6" x="76" y="15"/>
+    <rect id="e" width="6" height="6" x="94" y="25"/>
+    <rect id="f" width="6" height="6" x="79" y="34"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(2 5)">
+    <g transform="translate(0 21)">
+      <use fill="#FFFFFF" xlink:href="#a"/>
+      <rect width="86" height="94" x="3.5" y="3.5" stroke="#000000" stroke-width="7"/>
+      <g transform="translate(12 16)">
+        <use fill="#FFFFFF" xlink:href="#b"/>
+        <rect width="62" height="23" x="3.5" y="3.5" stroke="#000000" stroke-width="7"/>
+        <use fill="#FFFFFF" xlink:href="#c"/>
+        <rect width="25" height="23" x="3.5" y="38.5" stroke="#000000" stroke-width="7"/>
+        <path fill="#FFFFFF" stroke="#000000" stroke-width="7" d="M37 39L69 39M37 50L69 50M37 61L59.5 61"/>
+      </g>
+    </g>
+    <circle cx="86.5" cy="27.5" r="27.5" fill="#FFFFFF" stroke="#000000" stroke-width="6"/>
+    <g stroke="#000000" stroke-linecap="square" stroke-width="4" transform="translate(74 16)">
+      <path d="M.448275862 2L25.806588 2M.448275862 12L25.806588 12M.448275862 21L25.806588 21"/>
+    </g>
+    <use fill="#000000" xlink:href="#d"/>
+    <rect width="5" height="5" x="76.5" y="15.5" stroke="#000000"/>
+    <use fill="#000000" xlink:href="#e"/>
+    <rect width="5" height="5" x="94.5" y="25.5" stroke="#000000"/>
+    <g>
+      <use fill="#000000" xlink:href="#f"/>
+      <rect width="5" height="5" x="79.5" y="34.5" stroke="#000000"/>
+    </g>
+  </g>
+</svg>

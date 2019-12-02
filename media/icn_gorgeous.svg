@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="122" viewBox="0 0 150 122">
+  <defs>
+    <rect id="a" width="93" height="101" x="28" y="17"/>
+    <rect id="b" width="69" height="30" x="39" y="28"/>
+    <rect id="c" width="32" height="30" x="39" y="63"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(2 1)">
+    <path stroke="#000000" stroke-linecap="square" stroke-width="5" d="M7.96015511,29.4601551 L7.96015511,44.4934515" transform="rotate(45 7.96 36.96)"/>
+    <path stroke="#000000" stroke-linecap="square" stroke-width="5" d="M15.135022,36.8254805 L0.101725576,36.8254805" transform="rotate(45 7.618 37.325)"/>
+    <path stroke="#000000" stroke-linecap="square" stroke-width="5" d="M137.905755,6.09219646 L137.905755,17.6258875" transform="rotate(22 137.906 11.846)"/>
+    <path stroke="#000000" stroke-linecap="square" stroke-width="5" d="M143.540742,11.8231214 L132.007051,11.8231214" transform="rotate(22 137.774 12.207)"/>
+    <use fill="#FFFFFF" xlink:href="#a"/>
+    <rect width="86" height="94" x="31.5" y="20.5" stroke="#000000" stroke-width="7"/>
+    <use fill="#FFFFFF" xlink:href="#b"/>
+    <rect width="62" height="23" x="42.5" y="31.5" stroke="#000000" stroke-width="7"/>
+    <use fill="#FFFFFF" xlink:href="#c"/>
+    <rect width="25" height="23" x="42.5" y="66.5" stroke="#000000" stroke-width="7"/>
+    <polyline fill="#FFFFFF" stroke="#000000" stroke-width="7" points="76 67 76 67 108 67"/>
+    <path fill="#FFFFFF" stroke="#000000" stroke-width="7" d="M123,119 C123,91.9380473 101.061953,70 74,70 C46.9380473,70 25,91.9380473 25,119"/>
+    <path fill="#FFFFFF" stroke="#000000" stroke-width="7" d="M110,119 C110,99.117749 94.1061086,83 74.5,83 C54.8938914,83 39,99.117749 39,119"/>
+    <path fill="#FFFFFF" stroke="#000000" stroke-width="7" d="M97,119 C97,106.297451 86.9264069,96 74.5,96 C62.0735931,96 52,106.297451 52,119"/>
+    <circle cx="20" cy="3" r="3" fill="#000000" stroke="#000000"/>
+    <circle cx="141" cy="48" r="3" fill="#000000" stroke="#000000"/>
+  </g>
+</svg>
